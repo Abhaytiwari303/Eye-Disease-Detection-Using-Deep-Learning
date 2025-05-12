@@ -1,7 +1,0 @@
-OpenCV-python
-keras==2.2.4
-imutils
-tensorflow==2.0
-Flask
-pillow
-numpy
